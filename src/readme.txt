@@ -1,0 +1,1 @@
+uvicorn app:app --port 9999
