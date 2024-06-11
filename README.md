@@ -24,7 +24,7 @@ The API will return the OCR result:
 ```
 Example:
 
-![Alt text](images/Capture.PNG)
+![Alt text](images/Capture.JPG)
 
 
 
