@@ -2,9 +2,21 @@
 The paddleocr-pdf-ocr repository hosts a project aimed at automating text extraction and recognition from PDF documents using PaddleOCR, a powerful OCR (Optical Character Recognition) tool based on deep learning techniques.
 
 ## Install Dependencies
+Install the required libraries using:
 ```
 pip install -r requirements.txt
 ```
+
+## Getting Started
+1. Clone the repository: 
+```
+```
+
+2. Run the system: 
+```
+uvicorn app.main:app --port 9999
+```
+
 
 ## Project Structure
 
