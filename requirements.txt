@@ -1,0 +1,5 @@
+fastapi==0.115.3
+numpy==1.22.2
+paddleocr==2.7.3
+pdf2image==1.16.0
+pydantic==2.9.2
