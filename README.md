@@ -16,7 +16,7 @@ app/
 ├── services/
 │   └── pdf_ocr_service.py     # PDF OCR logic using PDFReader
 └── utils/
-    └── validation.py          # Utility functions for validation
+    └── func_pdf_reader.py     # Main Function of pdf reader
 ```
 
 ## API Usage
