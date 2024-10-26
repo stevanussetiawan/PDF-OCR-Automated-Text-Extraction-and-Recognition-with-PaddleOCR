@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ## Getting Started
 1. Clone the repository: 
 ```
-https://github.com/stevanussetiawan/PDF-OCR-Automated-Text-Extraction-and-Recognition-with-PaddleOCR.git
+git clone https://github.com/stevanussetiawan/PDF-OCR-Automated-Text-Extraction-and-Recognition-with-PaddleOCR.git
 ```
 
 2. Run the system: 
